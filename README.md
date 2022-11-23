@@ -1,4 +1,4 @@
-<center><h2>Potential Customer Yield Calculation by Rule Based Classification</h2></center>
+<center><h2>Potential Customer Profit Calculation by Rule Based Classification</h2></center>
 
 ---
 
